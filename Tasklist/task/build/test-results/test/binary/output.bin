@@ -1,0 +1,19 @@
+[1;31m
+Start test 1[0m
+-Input the tasks (enter a blank line to end):
+
+> Task #1
+
+> task 2 
+
+> task &3
+> Task   4
+
+> task  5
+> 
+1   Task #1
+2   task 2
+3   task &3
+4   Task   4
+5   task  5
+
